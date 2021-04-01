@@ -1,2 +1,2 @@
 # MegaBytesConverter
-A coding challenge 
+A coding challenge on the course Java Masterclass by Tim Bulchalka
